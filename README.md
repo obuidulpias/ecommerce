@@ -1,4 +1,4 @@
-### This is a simple web-based software written in Vue.js Framework.
+### This is a simple front-end written in Vue.js Framework.
 
 ### Feature 
 - [ ] Home page
