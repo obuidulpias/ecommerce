@@ -1,30 +1,48 @@
-# ecommerce
+### This is a simple web-based software written in Vue.js Framework.
 
-> A Vue.js project
+### Feature 
+- [ ] Home page
+- [ ] Category page
+- [ ] Checkout page
+- [ ] Registration and login page
+- [ ] Billing address page
 
-## Build Setup
+### Framework
 
-``` bash
-# install dependencies
-npm install
+- [ ] Vue.js
 
-# serve with hot reload at localhost:8080
-npm run dev
+### Language
 
-# build for production with minification
-npm run build
+- [ ] Java Script
+- [ ] Bootstrap
+- [ ] Html
+- [ ] css
 
-# build for production and view the bundle analyzer report
-npm run build --report
+### Screen Shot
 
-# run unit tests
-npm run unit
+### Home Page
 
-# run e2e tests
-npm run e2e
+![home1](https://user-images.githubusercontent.com/40806970/94422069-5230de80-01a8-11eb-8da1-b7f744db8543.PNG)
+![home2](https://user-images.githubusercontent.com/40806970/94422090-5957ec80-01a8-11eb-85b5-673b567be895.PNG)
+![home3](https://user-images.githubusercontent.com/40806970/94422108-5eb53700-01a8-11eb-8dcb-2d0ea451ff04.PNG)
 
-# run all tests
-npm test
-```
+### Category Page
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![category](https://user-images.githubusercontent.com/40806970/94422181-80aeb980-01a8-11eb-84f2-87261e0fdf90.PNG)
+
+### Product Details Page
+
+![product details](https://user-images.githubusercontent.com/40806970/94422225-958b4d00-01a8-11eb-9de9-feb0faa903ae.PNG)
+
+### Checkout Register Page
+
+![checkout-register](https://user-images.githubusercontent.com/40806970/94422354-c5d2eb80-01a8-11eb-8f95-a29a56602470.PNG)
+
+### Shipping Card Page
+
+![shiping-cart](https://user-images.githubusercontent.com/40806970/94422427-e3a05080-01a8-11eb-896b-af9cbcad6003.PNG)
+
+### Billing Details Page
+
+![billing-details](https://user-images.githubusercontent.com/40806970/94422468-f61a8a00-01a8-11eb-8167-0c44de938ded.PNG)
+
